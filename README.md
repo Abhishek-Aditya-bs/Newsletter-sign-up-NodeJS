@@ -4,7 +4,7 @@ Made with NodeJS, expressJS
 
 # How to run it
 
-Clone the repository or Download it , then in the project folder type `node app.js` to get ur local server running.
+Clone the repository or Download it , then in the terminal head over to the project folder type `node app.js` to get ur local server running.
 
 # Go to ur browser and type `localhost:3000` 
 
